@@ -10,7 +10,7 @@ Key Features:
 - **Realistic Physics**: The project demonstrates the physics engine's capabilities in Unreal Engine, allowing objects to be knocked over and interact with each other in a realistic manner.
 
 Technical Details:
-- **Engine**: Unreal Engine
+- **Engine**: Unreal Engine 5.1.1
 - **Development Approach**: Blueprint scripting
 - **Physics Engine**: Utilizes Unreal Engine's physics engine for realistic interaction and destruction
 - **Scene Design**: Thoughtfully arranged room with various objects for optimal demonstration of physics effects
